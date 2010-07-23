@@ -1,0 +1,9 @@
+# Poll Everywhere Authentication Information (use the %40 for the @ symbol)
+username: myname%40domain.com
+password: my_password
+
+# Poll Everywhere service URL list
+urls:
+  detailed_multiple_choice: http://www.polleverywhere.com/multiple_choice_polls
+  vote: http://www.polleverywhere.com/interpret.json
+  detailed_poll_list: www.polleverywhere.com/my/polls/detailed.json
