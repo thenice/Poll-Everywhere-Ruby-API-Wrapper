@@ -5,6 +5,9 @@
 * daniel.michael.cohen@gmail.com
 * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 
+** UPDATE: JULY, 1ST 2011 **
+Removed call to deprecated web service, detailed.json. Fixed so that the wrapper works with updated API.
+
 == What is PollEverywhere?
 Poll Everywhere is a premium real-time web-based polling service. Poll Everywhere is unique in that it allows users to submit poll responses via SMS, web, twitter, and blog widget-- and will display the results on a chart updated in real time. If you are looking for a full-featured polling service, check out Poll Everywhere. 
 
